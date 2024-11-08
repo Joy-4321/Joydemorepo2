@@ -9,4 +9,5 @@ then go to your vs code and confirm the name of your branch and then run the com
 git push origin master or main.
 go to github and confirm your push.
 
-Branchinh now.
+Branching now.
+after the editig on a new branch we will proceed to merge the branch to the master.
